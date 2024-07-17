@@ -1,4 +1,4 @@
 package com.aluracursos.forohub.infra.errors;
 
-public class ResourceNotFoundExcepcion {
+public class ResourceNotFoundException {
 }
